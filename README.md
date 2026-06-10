@@ -1,5 +1,4 @@
-# Task 6 - Build a Music Recommendation System
-**Slash Mark Machine Learning Internship - Advanced Level Project**
+# Build a Music Recommendation System
 
 This project is an advanced-level machine learning implementation of a **Music Recommendation System**. It integrates content-based filtering on song audio characteristics with collaborative filtering on user interaction logs to build a high-performance, robust hybrid recommendation engine.
 
