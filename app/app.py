@@ -113,7 +113,8 @@ st.markdown("""
 # Cache data loading so the app starts instantly after the first load
 @st.cache_data
 def load_data():
-    DATA_DIR = r"C:\Users\HP\Documents\KAIF\Slash\TASK 6\data"
+    # DATA_DIR = r"C:\Users\HP\Documents\KAIF\Slash\TASK 6\data"
+    DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
     SPOTIFY_DATA_PATH = os.path.join(DATA_DIR, "SpotifyFeatures.csv")
     USER_DATA_PATH = os.path.join(DATA_DIR, "user_interactions.csv")
     
