@@ -8,7 +8,7 @@ The project features a fully interactive, Spotify-themed **Streamlit Web Applica
 
 ## 📂 Project Structure
 ```text
-TASK 6/
+TASK /
 ├── app/
 │   └── app.py                 # Spotify-themed interactive Streamlit Web App
 ├── data/
