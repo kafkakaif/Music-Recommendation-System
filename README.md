@@ -50,11 +50,7 @@ TASK 6/
 
 ### Prerequisite: Set up your environment
 1. Open your terminal or Command Prompt.
-2. Navigate to this folder:
-   ```bash
-   cd "C:\Users\HP\Documents\KAIF\Slash\TASK 6"
-   ```
-3. Install the required Python libraries:
+2. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
    ```
