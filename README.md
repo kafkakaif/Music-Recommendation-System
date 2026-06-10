@@ -82,3 +82,19 @@ To verify that all models are configured correctly and running without a browser
 python src/verify.py
 ```
 This outputs test recommendations for a sample song and user profile.
+
+```text
+Built by
+
+ __  __  ___  _   _    _    __  __ __  __ _____ ____  
+|  \/  |/ _ \| | | |  / \  |  \/  |  \/  | ____|  _ \ 
+| |\/| | | | | |_| | / _ \ | |\/| | |\/| |  _| | | | |
+| |  | | |_| |  _  |/ ___ \| |  | | |  | | |___| |_| |
+|_|  |_|\___/|_| |_/_/   \_\_|  |_|_|  |_|_____|____/
+
+ _  __    _    ___ _____
+| |/ /   / \  |_ _|  ___|
+| ' /   / _ \  | || |_
+| . \  / ___ \ | ||  _|
+|_|\_\/_/   \_\___|_|
+```
